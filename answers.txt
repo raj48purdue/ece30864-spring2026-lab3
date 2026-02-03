@@ -2,7 +2,6 @@ Question 1 -
 Agile pros:
     Adapts to changes easily
     Delivers the features quite fast in small chunks
-
 Agile cons:
     Hard to predict exact time and cost
     Needs a lot of feedback and constant communication
@@ -10,7 +9,6 @@ Agile cons:
 Non Agile pros:
     There is a clear plan and documentation upfront
     It is much easier to estimate schedule and hence budget early on in the project
-
 Non-Agile cons:
     Any changes made during are quite expensive and also very slow
     As testing and feedback happens later, you will find problems late during the project timeline
@@ -18,7 +16,6 @@ Non-Agile cons:
 Question 2 -
 Scrum Master: - Keeps the team on the Scrum process and runs meetings 
               - Helps remove blockers so the team can keep working
-
 Product Owner: - Decides what to build next and sets priorities in the backlog
                - Explains requirements and accepts the work when it is done
 
@@ -32,4 +29,10 @@ Common meetings:
         - Any issues slowing you down
     - Sprint Review
         - Show what was finished and get feeback from the team
-        - Confirm what is done, what did not finish, and what changes came up 
+        - Confirm what is done, what did not finish, and what changes came up
+
+Question 4 - 
+    Epic: A big piece of work that’s broken into smaller stories or tasks
+    Story: A small feature or requirement that delivers value to the user
+    Task: A simple piece of work that needs to be done (not user-focused)
+    Bug: Something that’s broken and needs fixing
