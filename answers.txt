@@ -16,4 +16,10 @@ Non-Agile cons:
     Any changes made during are quite expensive and also very slow
     As testing and feedback happens later, you will find problems late during the project timeline
 
+Question 2 - 
 
+Scrum Master: - Keeps the team on the Scrum process and runs meetings 
+              - Helps remove blockers so the team can keep working
+
+Product Owner: - Decides what to build next and sets priorities in the backlog
+               - Explains requirements and accepts the work when it is done 
