@@ -1,1 +1,19 @@
+Question 1 -
+
+Agile pros:
+    Adapts to changes easily
+    Delivers the features quite fast in small chunks
+
+Agile cons:
+    Hard to predict exact time and cost
+    Needs a lot of feedback and constant communication
+
+Non Agile pros:
+    There is a clear plan and documentation upfront
+    It is much easier to estimate schedule and hence budget early on in the project
+
+Non-Agile cons:
+    Any changes made during are quite expensive and also very slow
+    As testing and feedback happens later, you will find problems late during the project timeline
+
 
